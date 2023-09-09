@@ -6,14 +6,8 @@ public class A {
 	
 		int a=10;
 		int b=50;
-		System.out.println("absjn");
-		System.out.println("absjn");
-		System.out.println("brance");
-		System.out.println("this is not master");
-		System.out.println("merge");
 		
-		
-         System.out.println("masters");
+		System.out.println("this is branch Z");
 	}
 
 }
