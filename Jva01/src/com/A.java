@@ -4,7 +4,8 @@ public class A {
 
 	public static void main(String[] args) {
 	
-		
+		int a=10;
+		int b=50;
 		System.out.println("absjn");
 		System.out.println("absjn");
 		System.out.println("brance");
