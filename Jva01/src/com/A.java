@@ -6,7 +6,7 @@ public class A {
 	
 		int a=10;
 		int b=50;
-		
+		System.out.println(a+b);
 		System.out.println("this is branch Z");
 	}
 
