@@ -10,6 +10,7 @@ public class A {
 		System.out.println("absjn");
 		System.out.println("brance");
 		System.out.println("this is not master");
+		System.out.println("merge");
 		
 		
 
