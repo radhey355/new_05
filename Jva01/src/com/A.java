@@ -7,7 +7,7 @@ public class A {
 		
 		System.out.println("absjn");
 		
-System.out.println("master");
+         System.out.println("masters");
 	}
 
 }
