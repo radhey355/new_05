@@ -6,8 +6,7 @@ public class A {
 
 	   
 		
-=======
-	system.out.println("master");
+	System.out.println("master");
 
 		int a=10;
 		int b=50;
